@@ -1,4 +1,4 @@
-# Hi there! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi there! <img src="./your-emoji.png" width="20" />
 
 I'm Aashutosh, a Computer Science student based in Kathmandu.
 
