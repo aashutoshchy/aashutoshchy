@@ -1,14 +1,5 @@
 ## Hiii! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="28" />
 
-I'm **Aashutosh**, a Computer Science student at **Herald College**, based in Kathmandu.
-
-I'm interested in software engineering.
-Currently learning and building projects with modern web technologies, and exploring **C# and Unity** for game development.
-
-I enjoy working on small projects to understand how things work and improve my programming skills step by step.
-
-When I’m not coding, I’m probably making music in **Logic Pro**.
-
-Always learning, always building.
+I'm **Aashutosh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutoshchaudhary/)
